@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris Xavier Mathias</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriscaper&label=Profile%20views&color=0e75b6&style=flat" alt="chriscaper" /> </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <a href="https://twitter.com/macyboiiii" target="blank"><img src="https://img.shields.io/twitter/follow/macyboiiii?logo=twitter&style=for-the-badge" alt="macyboiiii" /></a> </p>
 
